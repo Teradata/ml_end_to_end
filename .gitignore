@@ -1,0 +1,49 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Jupyter kernel runtime files
+kernel-*.json
+
+# Exclude Jupyter Notebook checkpoints and runtime files
+*.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environment
+venv
+# Exclude Jupyter Notebook outputs
+*.ipynb_output/
+
+# Exclude Jupyter Notebook metadata
+*.nbformat.json
+*.nbformat.v*
+
+# Exclude Jupyter Notebook widget state
+*.widget-state
+
+# Exclude Jupyter Notebook autosave
+*.autosave/
+
+# Exclude Jupyter Notebook execution logs
+*.log
+
+# Exclude Jupyter Notebook temporary files
+*.~*.ipynb
+
+# Exclude Jupyter Notebook converted files
+*.html
+*.pdf
+*.py
+
+# Exclude Jupyter Notebook hidden files
+.[^.]*.ipynb
+
+# Exclude Jupyter Notebook thumbnails
+*.ipynb_thumbnail
+
+# Exclude Jupyter Notebook scratchpad
+scratchpad/
+
+# Exclude Jupyter Notebook temporary files
+.jupyter/
+.nbgrader.log

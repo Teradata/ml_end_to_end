@@ -47,3 +47,4 @@ scratchpad/
 # Exclude Jupyter Notebook temporary files
 .jupyter/
 .nbgrader.log
+
